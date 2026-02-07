@@ -1,0 +1,93 @@
+{
+  "generated_at": "2026-02-08T03:13:25.859895",
+  "region": "BD",
+  "prefix": "hsmodz",
+  "license_key": "FF-20260208023420-957A831F",
+  "total_accounts": 12,
+  "accounts": [
+    {
+      "status": "success",
+      "name": "hsmodz⁵⁸²⁹",
+      "uid": "4491536980",
+      "password": "hsmodz-GIY6EBFLJ-X64",
+      "region": "BD"
+    },
+    {
+      "status": "success",
+      "name": "hsmodz³⁹³⁴",
+      "uid": "4491537115",
+      "password": "hsmodz-TI6SXGQBL-X64",
+      "region": "BD"
+    },
+    {
+      "status": "success",
+      "name": "hsmodz⁰⁵⁸⁹",
+      "uid": "4491537390",
+      "password": "hsmodz-70LEK8D4Q-X64",
+      "region": "BD"
+    },
+    {
+      "status": "success",
+      "name": "hsmodz⁷⁹⁶⁴",
+      "uid": "4491537493",
+      "password": "hsmodz-TYYS0TNSP-X64",
+      "region": "BD"
+    },
+    {
+      "status": "success",
+      "name": "hsmodz⁰⁷²²",
+      "uid": "4491538075",
+      "password": "hsmodz-1XKG1EEZG-X64",
+      "region": "BD"
+    },
+    {
+      "status": "success",
+      "name": "hsmodz⁵⁰¹⁰",
+      "uid": "4491538231",
+      "password": "hsmodz-PQVX4T66F-X64",
+      "region": "BD"
+    },
+    {
+      "status": "success",
+      "name": "hsmodz³⁰⁸⁹",
+      "uid": "4491538328",
+      "password": "hsmodz-SCVAV8XKA-X64",
+      "region": "BD"
+    },
+    {
+      "status": "success",
+      "name": "hsmodz¹⁵²⁰",
+      "uid": "4491538447",
+      "password": "hsmodz-SYYP5NCKA-X64",
+      "region": "BD"
+    },
+    {
+      "status": "success",
+      "name": "hsmodz⁷⁵¹⁷",
+      "uid": "4491538544",
+      "password": "hsmodz-TFMVN1VOR-X64",
+      "region": "BD"
+    },
+    {
+      "status": "success",
+      "name": "hsmodz³⁹⁸⁴",
+      "uid": "4491538643",
+      "password": "hsmodz-VBYMB8WK1-X64",
+      "region": "BD"
+    },
+    {
+      "status": "success",
+      "name": "hsmodz⁸⁵⁷¹",
+      "uid": "4491538727",
+      "password": "hsmodz-QG1LZGBBD-X64",
+      "region": "BD"
+    },
+    {
+      "status": "success",
+      "name": "hsmodz⁵⁷⁵⁶",
+      "uid": "4491538854",
+      "password": "hsmodz-6OCUWYDWC-X64",
+      "region": "BD"
+    }
+  ]
+}
