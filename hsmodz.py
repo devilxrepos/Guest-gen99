@@ -1056,10 +1056,16 @@ def web_generate_account(region, prefix):
         
         if result:
             return {
+                "status": "success",
+                "name": result.get("name"),
+                "uid": result.get("uid"),
+                "password": result.get("password"),
+                "region": region
                 "uid": result.get("uid"),
                 "password": result.get("password"),
             }
         return {"status": "error", "message": "Garena server rejected the request"}
     except Exception as e:
         return {"status": "error", "message": f"Script Error: {str(e)}"}
+
 
